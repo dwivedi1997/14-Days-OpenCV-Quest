@@ -5,8 +5,8 @@ Let’s go ahead and get started learning the basics of OpenCV and image process
 I have divide todays tutorial in two parts:<br>
 1a<br>
 1b<br>
-In ## Day 1a - You will learn about basic features of OpenCV<br>
-In ## Day 2a- You will learn the following:<br>
+## Day 1a - You will learn about basic features of OpenCV<br>
+## Day 2a- You will learn the following:<br>
 Learning how to convert images to grayscale with OpenCV<br>
 Performing edge detection<br>
 Thresholding a grayscale image<br>
