@@ -3,5 +3,5 @@ Building a document scanner in OpenCV boils down to three simple steps — and i
 
 All we have to do is:
 Detect edges.<br>
-Use the edges in the image to find the contour (outline) representing the piece of paper being scanned.
+Use the edges in the image to find the contour (outline) representing the piece of paper being scanned
 Apply a perspective transform to obtain the top-down view of the document.
